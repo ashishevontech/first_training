@@ -1,3 +1,6 @@
 # first_training
 
-added by second developer
+added by second test developer
+dds
+
+dffd

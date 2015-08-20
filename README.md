@@ -1,3 +1,3 @@
 # first_training
 
-added by second developer
+added by hello second developer
